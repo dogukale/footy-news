@@ -1,0 +1,14 @@
+// Tailwind CSS.
+// --------------------------------------------------------------------------
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+// Google Fonts.
+// --------------------------------------------------------------------------
+@import url("https://fonts.googleapis.com/css2?family=Roboto&display=swap");
+
+// Base.
+// --------------------------------------------------------------------------
+@import "base/_reset";
+@import "base/_global";
